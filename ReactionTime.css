@@ -1,0 +1,12 @@
+#RandomShape{
+  height: 50px;
+  width: 100px;
+  background-color: #555;
+  border-radius: 50%;
+  position: relative;
+  left: 10px;
+  top: 200px;
+  right: 5px;
+  bottom: 3px;
+  display: none;
+}
